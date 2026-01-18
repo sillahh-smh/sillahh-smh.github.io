@@ -1,0 +1,39 @@
+@font-face{
+  font-family: "Sauce Code Pro Nerd Font";
+  src=url("./fonts/SauceCodeProNerdFont-Regular.ttf") format("ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face{
+  font-family: "Sauce Code Pro Nerd Font";
+  src=url("./fonts/SauceCodeProNerdFont-Bold.ttf") format("ttf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face{
+  font-family: "Sauce Code Pro Nerd Font";
+  src=url("./fonts/SauceCodeProNerdFont-Italic.ttf") format("ttf");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face{
+  font-family: "Sauce Code Pro Nerd Font";
+  src=url("./fonts/SauceCodeProNerdFont-BoldItalic.ttf") format("ttf");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+body {
+  font-family: "Sauce Code Pro Nerd Font", monospace;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+}
